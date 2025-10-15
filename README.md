@@ -1,0 +1,1 @@
+usando a biblioteca random é escolhido um numero aleatorio entre 1 e 100(incluindo esses). se o usuario colocar um numero menor ou maior que o numero misterioso o programa vai indicar. quando o usuario acerta o programa encerra
